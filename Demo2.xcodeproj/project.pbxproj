@@ -14,6 +14,7 @@
 		BC7DF5AD1C98C156002FF411 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC7DF5AB1C98C156002FF411 /* LaunchScreen.storyboard */; };
 		BC7DF5B81C98C157002FF411 /* Demo2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7DF5B71C98C157002FF411 /* Demo2Tests.swift */; };
 		BC7DF5C31C98C157002FF411 /* Demo2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7DF5C21C98C157002FF411 /* Demo2UITests.swift */; };
+		BC7DF5D11C98C2F5002FF411 /* file1test.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7DF5D01C98C2F5002FF411 /* file1test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		BC7DF5BE1C98C157002FF411 /* Demo2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Demo2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC7DF5C21C98C157002FF411 /* Demo2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo2UITests.swift; sourceTree = "<group>"; };
 		BC7DF5C41C98C157002FF411 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC7DF5D01C98C2F5002FF411 /* file1test.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = file1test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				BC7DF5A21C98C156002FF411 /* AppDelegate.swift */,
 				BC7DF5A41C98C156002FF411 /* ViewController.swift */,
+				BC7DF5D01C98C2F5002FF411 /* file1test.swift */,
 				BC7DF5A61C98C156002FF411 /* Main.storyboard */,
 				BC7DF5A91C98C156002FF411 /* Assets.xcassets */,
 				BC7DF5AB1C98C156002FF411 /* LaunchScreen.storyboard */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC7DF5D11C98C2F5002FF411 /* file1test.swift in Sources */,
 				BC7DF5A51C98C156002FF411 /* ViewController.swift in Sources */,
 				BC7DF5A31C98C156002FF411 /* AppDelegate.swift in Sources */,
 			);
